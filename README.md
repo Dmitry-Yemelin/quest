@@ -61,5 +61,3 @@ Awesome! Tell us you found a bug alongwith your submission and we'll talk more!
 ### Q. What if I fail?
 There is no fail. Complete whatever you can and then submit your work. Doing _everything_ in the quest is not a guarantee that you will "pass" the quest, just like not doing something is not a guarantee you will "fail" the quest.
 
-### Q. Can I share this quest with others?
-No.
